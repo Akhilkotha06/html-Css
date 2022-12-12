@@ -1,0 +1,59 @@
+1.What are empty elements?
+HTML elements with no content are called empty elements. For example: <br>, <hr> etc.
+    
+2. Is audio tag supported in HTML 5?
+Yes. It is used to add sound or music files on the web page. There are three supported file formats for HTML 5 audio tag.
+
+mp3
+WAV
+Ogg
+>>1. What Elements Are Empty?
+Here is a list of all the empty elements (also called self-closing tags) in the HTML5 specification:
+
+<area>
+<base>
+<br>
+<col>
+<embed>
+<hr>
+<img>
+<input>
+<keygen>
+<link>
+<meta>
+<param>
+<source>
+<track>
+<wbr>
+3.What are the different formats in which colors in HTML can be declared?
+
+The color of an element can be defined in the following ways:
+
+Built-In Color(h1 {color: color-name;})
+RGB Format(h1 {color: rgb(R, G, B);})
+RGBA Format(h1 {color:rgba(R, G, B, A);})
+Hexadecimal Notation(h1 {color:#(0-F)(0-F)(0-F)(0-F)(0-F)(0-F);})
+HSL(h1 {color:hsl(H, S, L);})
+HSLA(h1 {color:hsla(H, S, L, A);})
+4.How are comments added in HTML?
+
+The comment tag (<!– Comment –>) is used to insert comments in the HTML code.
+
+Types of HTML Comments: There are three types of comments in HTML which are:
+
+>>Single-line comment
+ <!--This is single line comment -->
+>>Multi-lines comment
+<!-- This is
+multi-line
+comment -->
+>>Using <comment> tag
+<comment>This is multi-line
+    comment
+</comment>
+5.:What is a <meta> tag in HTML5?
+Answer: The <meta> tag offers metadata about the HTML5 document. This metadata is machine-parsable. Typically, meta elements are used for specifying:
+
+Author name
+Keywords
+Page description

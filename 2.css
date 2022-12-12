@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Welcome</title>
+<style type = "text/css"> 
+.body
+{
+background-color:red;
+}
+</style>
+</head>
+<body>
+<h1><center>My First WebPage</center></h1>
+<h2>first page to last page &nbsp;</h2>
+<!-- Write your comments here -->
+<p style="color:white: ">This is a red paragraph.</p>
+<p>one</br>
+<b>two</b></br>
+three</br>
+</p>
+</body>
+</html>
